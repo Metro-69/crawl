@@ -4,11 +4,11 @@ name: Minotaur
 difficulty: Simple
 difficulty_priority: 90
 aptitudes:
-  xp: -1
-  hp: 1
-  mp_mod: -1
+  xp: 1
+  hp: 2
+  mp_mod: 1
   wl: 3
-  fighting: 2
+  fighting: 3
   short_blades: 1
   long_blades: 2
   axes: 2
@@ -17,12 +17,12 @@ aptitudes:
   staves: 2
   ranged weapons: 1
   throwing: 0
-  armour: 2
-  dodging: 1
+  armour: 4
+  dodging: 4
   stealth: -1
-  shields: 2
+  shields: 4
   unarmed_combat: 1
-  spellcasting: -4
+  spellcasting: -1
   conjurations: -3
   hexes: -4
   summoning: -3
@@ -36,8 +36,8 @@ aptitudes:
   alchemy: -3
   evocations: -1
 str: 12
-int: 5
-dex: 5
+int: 8
+dex: 8
 levelup_stat_frequency: 4
 levelup_stats:
   - str
