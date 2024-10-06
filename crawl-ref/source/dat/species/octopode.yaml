@@ -8,20 +8,20 @@ difficulty: Advanced
 difficulty_priority: 50
 aptitudes:
   xp: 0
-  hp: -1
+  hp: 2
   mp_mod: 0
   wl: 3
   armour: False
   stealth: 4
-  spellcasting: -1
+  spellcasting: 1
   alchemy: 1
-  shapeshifting: -1
+  shapeshifting: 6
   invocations: 1
   evocations: 1
 can_swim: true
-str: 7
+str: 10
 int: 10
-dex: 7
+dex: 10
 levelup_stat_frequency: 5
 species_flags:
   - no_hair
