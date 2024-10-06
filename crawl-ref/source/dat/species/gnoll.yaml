@@ -4,8 +4,8 @@ name: Gnoll
 difficulty: Simple
 difficulty_priority: 10
 aptitudes:
-  xp: 0
-  hp: 0
+  xp: 2
+  hp: 2
   mp_mod: 0
   wl: 3
   fighting: 8
@@ -36,9 +36,9 @@ aptitudes:
   invocations: 9
   evocations: 8
   shapeshifting: 7
-str: 7
-int: 7
-dex: 7
+str: 15
+int: 15
+dex: 15
 levelup_stat_frequency: 4
 mutations:
   1:
